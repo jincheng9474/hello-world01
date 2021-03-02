@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b57e9d1-bab6-4aa5-a60c-260d3d1068b6" name="Default Changelist" comment="" />
+    <list default="true" id="0b57e9d1-bab6-4aa5-a60c-260d3d1068b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,11 +73,23 @@
       <workItem from="1614680178425" duration="285000" />
       <workItem from="1614680486650" duration="66000" />
       <workItem from="1614680578959" duration="922000" />
-      <workItem from="1614683525676" duration="1670000" />
+      <workItem from="1614683525676" duration="3244000" />
     </task>
+    <task id="LOCAL-00001" summary="初次部署">
+      <created>1614685235240</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614685235240</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初次部署" />
+    <option name="LAST_COMMIT_MESSAGE" value="初次部署" />
   </component>
 </project>
