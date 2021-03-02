@@ -4,7 +4,7 @@
       <p>java0821 全体同学 貌美如花</p>
       <p>祝 java0821 全体同学 拿到自己心仪的offer</p>
       <p>祝 java0821 6666666</p>
-   <img src="E:\壁纸\98.png"/>
+   <img src="E:\壁纸\96.png"/>
   </div>
 </template>
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b57e9d1-bab6-4aa5-a60c-260d3d1068b6" name="Default Changelist" comment="">
+    <list default="true" id="0b57e9d1-bab6-4aa5-a60c-260d3d1068b6" name="Default Changelist" comment="初次部署02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
     </list>
@@ -73,7 +73,7 @@
       <workItem from="1614680178425" duration="285000" />
       <workItem from="1614680486650" duration="66000" />
       <workItem from="1614680578959" duration="922000" />
-      <workItem from="1614683525676" duration="3244000" />
+      <workItem from="1614683525676" duration="4707000" />
     </task>
     <task id="LOCAL-00001" summary="初次部署">
       <created>1614685235240</created>
@@ -82,7 +82,35 @@
       <option name="project" value="LOCAL" />
       <updated>1614685235240</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="初次部署011">
+      <created>1614687271349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614687271349</updated>
+    </task>
+    <task id="LOCAL-00003" summary="初次部署02">
+      <created>1614687630302</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614687630302</updated>
+    </task>
+    <task id="LOCAL-00004" summary="初次部署03">
+      <created>1614688017551</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614688017551</updated>
+    </task>
+    <task id="LOCAL-00005" summary="初次部署  图片">
+      <created>1614688534600</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614688534600</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +118,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初次部署" />
-    <option name="LAST_COMMIT_MESSAGE" value="初次部署" />
+    <MESSAGE value="初次部署011" />
+    <MESSAGE value="初次部署02" />
+    <MESSAGE value="初次部署03" />
+    <MESSAGE value="初次部署  图片" />
+    <option name="LAST_COMMIT_MESSAGE" value="初次部署  图片" />
   </component>
 </project>
