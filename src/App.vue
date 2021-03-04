@@ -1,10 +1,7 @@
 <template>
   <div id="app">
-      <p>java0821 全体同学 前程似锦</p>
-      <p>java0821 全体同学 貌美如花</p>
-      <p>祝 java0821 全体同学 拿到自己心仪的offer</p>
-      <p>祝 java0821 6666666</p>
-   <img src="https://th.wallhaven.cc/lg/z8/z887yw.jpg"/>
+      <p></p>
+   <img src="https://img04.sogoucdn.com/app/a/100520093/e18d20c94006dfe0-20cbe3c7627c7e45-8135a44d12bd49e8386a3497d48a8ba6.jpg"/>
   </div>
 </template>
 
